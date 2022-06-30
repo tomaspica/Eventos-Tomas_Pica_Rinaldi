@@ -1,5 +1,5 @@
 
-/* function saludar() {
+function saludar() {
     alert("Bienvenido " + usuario)
 };
 
@@ -11,7 +11,7 @@ let apellidoDeUsuario = prompt("Apellido");
 
 let usuario = (nombreDeUsuario + " " + apellidoDeUsuario);
 
-saludar(); */
+saludar();
 
 let autos = [
   {
